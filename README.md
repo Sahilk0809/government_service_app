@@ -1,16 +1,7 @@
 # government_service_app
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/92526010-98b1-4963-a07e-4a74634559a2" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/6c4aaa05-03b4-421a-849e-818501077880" height=65% width=22%>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/c27ac847-6754-429e-90bc-9420d004ed96
