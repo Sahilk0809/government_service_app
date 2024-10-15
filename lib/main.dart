@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:government_service_app/provider/burger_provider.dart';
-import 'package:government_service_app/view/burger_hub_app/splash_screen.dart';
+import 'package:government_service_app/view/burger_hub_app/home_screen.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SplashScreen(),
+      home: HomeScreen(),
     );
   }
 }
